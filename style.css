@@ -1,0 +1,16 @@
+header{
+    background-color:#e8e8c6;
+    height:700px;
+}
+.bag-box{
+    border:0ch;
+    background-color:#fff;
+}
+.bag-div{
+    border:0ch;
+    border-radius: 20px;
+    
+}
+.bag-div img{
+    border-radius: 20px;
+}
