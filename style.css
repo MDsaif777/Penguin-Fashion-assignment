@@ -1,5 +1,5 @@
 header{
-    background-color:#e8e8c6;
+    background-color:#efefe2;
     height:700px;
 }
 .bag-box{
@@ -13,4 +13,32 @@ header{
 }
 .bag-div img{
     border-radius: 20px;
+}
+.blue-text{
+    color:#2c2c54
+}
+.green-text{
+    color:#05c46b;
+}
+.co-btn {
+    background-color:#3B3B98;
+    color:#fff;
+    padding:15px 30px;
+    font-size:22px
+
+}
+header h1{
+    font-size:70px
+}
+p{
+    font-size:22px
+}
+h1{
+    font-size:50px
+}
+h5{
+    font-size:27px
+}
+.gray-bg{
+    background-color:#f1f1f1
 }
